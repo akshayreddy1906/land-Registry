@@ -2,6 +2,8 @@
 
 A Solidity smart contract for managing land parcels and ownership records on the blockchain.
 
+Created for the VOIS Foundation's Blockchain Internship Program.
+
 ## Features
 
 - Register new land parcels with unique IDs
